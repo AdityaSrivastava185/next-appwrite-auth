@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "appwrite": "^16.0.2",
+    "axios": "^1.7.7",
     "next": "14.2.14",
+    "node-appwrite": "^14.1.0",
     "react": "^18",
     "react-dom": "^18"
   },
