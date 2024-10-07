@@ -1,6 +1,7 @@
-import Image from "next/image";
+import axios from "axios";
 
-export default function Home() {
+export default async function Home() {
+  // const response = await axios.get('')
   return (
     <div>
        <main className="container mx-auto max-w-[800px]">
